@@ -14,5 +14,4 @@ O foco deste conjunto de exercícios é dominar o uso prático de **estruturas c
 
 ---
 
-🛠️ **Tecnologia:** Python 3.x  
-✍️ **Autor:** Projeto de estudos e prática diária de programação.
+🛠️ **Tecnologia:** Python
