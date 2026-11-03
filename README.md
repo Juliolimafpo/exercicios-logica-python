@@ -2,7 +2,7 @@
 
 Repositório criado para registrar minha evolução nos fundamentos de lógica de programação utilizando Python.
 
-O foco deste conjunto de exercícios é dominar o uso prático de **estruturas condicionais** e **operadores lógicos**, resolvendo problemas de tomada de decisão do zero.
+O foco deste conjunto de exercícios é dominar o uso prático de **estruturas condicionais** e **operadores lógicos**.
 
 ---
 
