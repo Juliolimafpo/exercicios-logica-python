@@ -10,8 +10,4 @@ O foco deste conjunto de exercícios é dominar o uso prático de **estruturas c
 
 - Estruturas condicionais: `if`, `elif`, `else`
 - Operadores lógicos: `and`, `or`, `not`
-- Comparação de valores e manipulação básica de variáveis no terminal
-
----
-
-🛠️ **Tecnologia:** Python
+- Comparação de valores e manipulação básica de variáveis 
